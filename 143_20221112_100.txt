@@ -1,0 +1,10 @@
+PNR  : 143_20221112_100
+Train no : Udyan Express
+Train Name : Udyan Express
+From : Mumbai
+To : Banglore
+Travel Date : 12/11/2022
+Passenger : 
+Name 	Age	Gender	Fare
+loki	23	M	1500
+Total price : 1500.0

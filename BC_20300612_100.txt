@@ -1,0 +1,10 @@
+PNR  : BC_20300612_100
+Train no : Brindavan Express
+Train Name : Brindavan Express
+From : Bangalore
+To : Chennai
+Travel Date : 12/06/2030
+Passenger : 
+Name 	Age	Gender	Fare
+ram	10	M	750
+Total price : 750.0

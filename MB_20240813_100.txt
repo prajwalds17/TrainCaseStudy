@@ -1,0 +1,10 @@
+PNR           : MB_20240813_100
+Train no      : 1004
+Train Name    : Udyan Express
+From          : Mumbai
+To            : Banglore
+Travel Date   : 13/08/2024
+Passenger : 
+Name           Age       Gender    Fare
+Sham      14        M         1500
+Total price : 1500.0

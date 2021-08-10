@@ -1,0 +1,10 @@
+PNR           : DB_20230813_100
+Train no      : 1002
+Train Name    : Shatabdi Express
+From          : Delhi
+To            : Bangalore
+Travel Date   : 13/08/2023
+Passenger : 
+Name           Age       Gender    Fare
+sham      17        M         2500
+Total price : 2500.0

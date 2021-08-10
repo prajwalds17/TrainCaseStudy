@@ -1,0 +1,10 @@
+PNR  : 134_20220612_102
+Train no : Shatabdi Express
+Train Name : Shatabdi Express
+From : Delhi
+To : Bangalore
+Travel Date : 12/06/2022
+Passenger : 
+Name 	Age	Gender	Fare
+prajwal	34	M	1250
+Total price : 1250.0
